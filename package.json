@@ -1,0 +1,34 @@
+{
+  "name": "@dhruval/dk-icon-button",
+  "version": "1.0.0",
+  "description": "Material design icon-button which can toggle icons also.",
+  "main": "dk-icon-button.js",
+  "dependencies": {
+    "@dhruval/dk-icon": "^1.0.0",
+    "@dhruval/dk-ripple": "^1.0.1",
+    "@material/icon-button": "^6.0.0",
+    "lit-element": "^2.3.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvalkodinariya/dk-icon-button.git"
+  },
+  "keywords": [
+    "material-design",
+    "lit-element",
+    "icon-button",
+    "icon-button-toggle"
+  ],
+  "author": "Dhruval Kodinariya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruvalkodinariya/dk-icon-button/issues"
+  },
+  "homepage": "https://github.com/dhruvalkodinariya/dk-icon-button#readme"
+}
