@@ -46,11 +46,6 @@
   dependencies:
     tslib "^1.9.3"
 
-"@material/density@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@material/density/-/density-6.0.0.tgz#9731d9b981f9b5fd92780812c8382f144ba2494d"
-  integrity sha512-svKiq7XtUg89hf08XGFF46NdiQAZfey5CiatmNxD3WX7LUoCb5zc8K9BqPL63P1Sh6kty9R0AHj+6w4ASFetPA==
-
 "@material/dom@6.0.0-canary.35a32aaea.0", "@material/dom@=6.0.0-canary.35a32aaea.0":
   version "6.0.0-canary.35a32aaea.0"
   resolved "https://registry.yarnpkg.com/@material/dom/-/dom-6.0.0-canary.35a32aaea.0.tgz#f22a36c62a960aed5289319d37b91d27db1e29c2"
@@ -75,19 +70,6 @@
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/@material/feature-targeting/-/feature-targeting-6.0.0.tgz#8dcfc470f3c5b8c7e1bc04bb86b062a640ff03a0"
   integrity sha512-REj9VJnqkGwpngffc/iHGPt8WTF27QFPWDD8VBNXaP+MmnpIu7V5q5JMoozKzG5uk+hVryzam1i2PJHztizDXg==
-
-"@material/icon-button@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@material/icon-button/-/icon-button-6.0.0.tgz#769c0fbc90920a5c4dcfc52c8665ad82e2c19b07"
-  integrity sha512-ak1BIG20FVAIj4oV20YbDhvYWIS8kn6cCcJomVBB/f8uA4OX6NO77xwaJ9tBZTURkvLJ0Z5coDLinxOHN15ffQ==
-  dependencies:
-    "@material/base" "^6.0.0"
-    "@material/density" "^6.0.0"
-    "@material/feature-targeting" "^6.0.0"
-    "@material/ripple" "^6.0.0"
-    "@material/rtl" "^6.0.0"
-    "@material/theme" "^6.0.0"
-    tslib "^1.9.3"
 
 "@material/mwc-base@^0.14.1":
   version "0.14.1"
@@ -132,11 +114,6 @@
     "@material/feature-targeting" "^6.0.0"
     "@material/theme" "^6.0.0"
     tslib "^1.9.3"
-
-"@material/rtl@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@material/rtl/-/rtl-6.0.0.tgz#e8114194af72f7496ca2fc5b4ee63981c46f5066"
-  integrity sha512-/WkzlUm3qylWMqv7Lw7ColZ8DYvEvTXtevxxz7PKM1hT9FNlbO1/Qywvda4VUtXivEeynXEqeT1T/ZYHV9yDVw==
 
 "@material/theme@6.0.0-canary.35a32aaea.0":
   version "6.0.0-canary.35a32aaea.0"
