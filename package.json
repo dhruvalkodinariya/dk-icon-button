@@ -30,5 +30,6 @@
   "bugs": {
     "url": "https://github.com/dhruvalkodinariya/dk-icon-button/issues"
   },
-  "homepage": "https://github.com/dhruvalkodinariya/dk-icon-button#readme"
+  "homepage": "https://github.com/dhruvalkodinariya/dk-icon-button#readme",
+  "devDependencies": {}
 }

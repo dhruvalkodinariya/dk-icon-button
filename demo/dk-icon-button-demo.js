@@ -21,15 +21,12 @@ static get styles(){
     return html`
       <h3>Toggle icon button</h3>
       <dk-icon-button icon="cloud_download"></dk-icon-button>
+      <dk-icon-button icon="cloud_download" buttonSize="30" iconSize="16"></dk-icon-button>
       <h4>Disabled</h4>
       <dk-icon-button icon="polymer" disabled></dk-icon-button>
-      <h3>Toggle icon button</h3>
-      <h4>Default : On</h4>
-      <dk-icon-button toggleButton isOn onIcon="visibility" offIcon="visibility_off"></dk-icon-button>
-      <h4>Default : Off</h4>
-      <dk-icon-button toggleButton onIcon="signal_wifi_4_bar" offIcon="signal_wifi_off"></dk-icon-button>
-      <h4>Disabled</h4>
-      <dk-icon-button toggleButton onIcon="visibility" offIcon="visibility_off" disabled></dk-icon-button>
+      
+      
+      
     `;
   }
 }
